@@ -1,8 +1,7 @@
 package org.getname;
 
 public class PrintYourName {
-	
-		
+
 		public void name() {
 			System.out.println("KARTHIK");
 		}
@@ -14,12 +13,21 @@ public class PrintYourName {
 			System.out.println("1234");
 		}
 	
-		public static void main(String[] args) {
-			PrintYourName p= new PrintYourName();
-			p.name();
-			p.name1();
-			p.id();
-		}
+	
+					
+		public void name2() {
+			System.out.println("my name is vishnudarshan");
+
+
+
+	
 	}
-		
-		
+
+	
+	
+	}
+
+
+
+	
+
